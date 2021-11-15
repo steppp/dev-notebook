@@ -1,0 +1,2 @@
+##### Debug touch behavior of applications on a pc
+Use the **Microsoft Windows Simulator**, which has a touch mode: it is located in ``` %ProgramFiles(x86)%\Common Files\Microsoft Shared\Windows Simulator ```. Select the version and then open ``` Microsoft.Windows.Simulator.exe ```. You can choose change pointer mode using the buttons on the right.
