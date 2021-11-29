@@ -6,3 +6,6 @@ To tell that a class which implements an interface should only have a property *
 
 ##### Reference to directives in components
 To get the reference to any directive associated to a component, *inject* it into the component's constructor.
+
+##### Component styling
+To apply a style to the html component element itself the **:host** selector can be used to target it.
